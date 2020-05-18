@@ -36,7 +36,7 @@ cd lista-ser347
 Utilizou-se o Notepad++ para alterar o arquivo README.md
 com o comando: *git status* podemos verificar o status do repositório
 
-4ª Etapa: Registar 
+4ª Etapa: Registar - incluir o arquivo no repositório
 comando: git add
 
 git add README.md
