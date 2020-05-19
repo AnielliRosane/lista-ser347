@@ -1,4 +1,4 @@
-# lista-ser347
+# lista de Exercicio 06 - SER-347
 
 ## Objetivos:
 
@@ -10,12 +10,13 @@ com um resumo da sequência de comandos git utilizados.
 
 ## Instruções 1: Repositório
 
-* Antes de iniciar é preciso ter uma conta no gitHub 
+* Antes de iniciar é preciso ter uma conta no GitHub 
+
 * Certifique-se que o git está instalado, caso não tenha instalado, instruções para instalação em: https://ser-347.github.io/variados/git_comandos.html
 
-* Defina um pasta na máquina local para onde deseja copiar o repositório 
+* Defina uma pasta na máquina local 
 
-**Observação**: Alguns comandos são exclusivos para o  Windows
+**Observação**: Para facilitar tenha um editor na sua maquina como: *Notepad++*
 
 ## Sequência de comandos utilizados
 
@@ -28,11 +29,11 @@ comando: git clone
 git clone https://github.com/AnielliRosane/lista-ser347
 
 
-**2ª Etapa:**  Alterando o diretorio corrente
+**2ª Etapa:**  Alterando o diretório corrente
 
 comando: cd 
 
-* O comando cd altera o diretório corrente para a pasta lista-ser347
+* O comando cd altera o diretório corrente para a pasta que deseja
 
 cd lista-ser347
 
@@ -40,7 +41,7 @@ cd lista-ser347
 
 Utilizou-se o *Notepad++* para alterar o arquivo README.md
 
-com o comando: *git status* podemos verificar o status do repositório
+* Com o comando *git status* podemos verificar o status do repositório
 
 **4ª Etapa:** Registrando - incluir o arquivo no repositório
 
@@ -56,7 +57,7 @@ git commit -m "Primeira versão do arquivo README.md"
 
 **6ª Etapa:** Sincronizando -  máquina local e repositório remoto
 
-O comando garante que a copia local esteja realmente atualizada com a remota
+* O comando *git pull* garante que a copia local esteja realmente atualizada com a remota
 
 comando: git pull
 
@@ -64,18 +65,19 @@ comando: git pull
 
 comando: git push
 
-**Obs:** nesta etapa temos que lembrar do usuário e senha do GitHub
+**Obs:** Nesta etapa temos que lembrar do usuário e senha do GitHub
 
 
 ## Instruções 2: Arquivos de código
 
 Adicionando os exercicios 02 e 04 da lista de exercícios 06
 
-nome dos arquivos: 
+Nome dos arquivos: 
 
-* exercicio-2
+* exercicio-2.py
 
-* exercicio-4
+* exercicio-4.py
+
 
 **Sequência de comandos**
 
