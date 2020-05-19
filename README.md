@@ -90,4 +90,4 @@ nome dos arquivos:
 ## Considerações
 
 Neste arquivo está a explicado sequência de comandos git utilizados para construção de uma repositório remoto e virtual, 
-bem como, os codicos para adicionar os arquivos de código fonte.
+bem como, os códigos para adicionar os arquivos de código fonte.
