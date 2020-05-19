@@ -3,9 +3,9 @@
 ## Objetivos:
 
 1) Criar um repositório com alguns arquivos de código fonte da lista 
-de exercícios 06 e;
+de exercícios 06. 
 
-2)enviar o link desse repositório para os professores da disciplina, 
+2) enviar o link desse repositório para os professores da disciplina, 
 com um resumo da sequência de comandos git utilizados.
 
 ## Instruções 1: Repositório
@@ -32,39 +32,40 @@ git clone https://github.com/AnielliRosane/lista-ser347
 
 comando: cd 
 
-* O comando cd altera o diretório corrente pata a pasta lista-ser347
+* O comando cd altera o diretório corrente para a pasta lista-ser347
 
 cd lista-ser347
 
-**3ª Etapa:** Modificar o arquivo README do repositório
+**3ª Etapa:** Modificando o arquivo README do repositório
 
 Utilizou-se o *Notepad++* para alterar o arquivo README.md
 
 com o comando: *git status* podemos verificar o status do repositório
 
-**4ª Etapa:** Registar - incluir o arquivo no repositório
+**4ª Etapa:** Registrando - incluir o arquivo no repositório
 
 comando: git add
 
 git add README.md
 
-**5ªEtapa:** Confirmar a modificação
+**5ª Etapa:** Confirmando a modificação
 
 comando: git commit 
 
 git commit -m "Primeira versão do arquivo README.md"
 
-**6ªEtapa:** Sincronização -  máquina local e repositório remoto
+**6ª Etapa:** Sincronizando -  máquina local e repositório remoto
 
 O comando garante que a copia local esteja realmente atualizada com a remota
 
 comando: git pull
 
-**7ªEtapa:** Sincronização -  repositório remoto e máquina local
+**7ª Etapa:** Sincronizando -  repositório remoto e máquina local
 
 comando: git push
 
 **Obs-1:** nesta etapa temos que lembrar do usuário e senha do GitHub
+
 **Obs-2:** O comando git checkout (git checkout -- README.md) permite desfazer as modificações
 
 
@@ -78,7 +79,7 @@ nome dos arquivos:
 
 * exercicio-4
 
-**Sequência de comandos
+**Sequência de comandos**
 
 * git add
 
@@ -90,5 +91,5 @@ nome dos arquivos:
 
 ## Considerações
 
-Nesta arquivo está explicado sequência de comandos git utilizados para construção de uma repositório remoto e virtual, 
+Neste arquivo está a explicado sequência de comandos git utilizados para construção de uma repositório remoto e virtual, 
 bem como, os codicos para adicionar os arquivos de código fonte.
