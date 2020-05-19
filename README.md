@@ -1,20 +1,21 @@
 # lista-ser347
 
-# lista-ser347
+## Objetivos:
 
-## Objetivo:
-Exercício 03. Crie um repositório com alguns arquivos de código fonte da lista 
-de exercícios 06 e envie o link desse repositório para os professores da disciplina, 
+1) Criar um repositório com alguns arquivos de código fonte da lista 
+de exercícios 06 e;
+
+2)enviar o link desse repositório para os professores da disciplina, 
 com um resumo da sequência de comandos git utilizados.
 
-## Instruções
+## Instruções 1: Repositório
 
 * Antes de iniciar é preciso ter uma conta no gitHub 
-* Certifique-se que o git está instalado, caso não instruções para instalação em: https://ser-347.github.io/variados/git_comandos.html
+* Certifique-se que o git está instalado, caso não tenha instalado, instruções para instalação em: https://ser-347.github.io/variados/git_comandos.html
 
 * Defina um pasta na máquina local para onde deseja copiar o repositório 
 
-**Observação**: Algunas comandos são exclusivos para o  Windows
+**Observação**: Alguns comandos são exclusivos para o  Windows
 
 ## Sequência de comandos utilizados
 
@@ -41,7 +42,7 @@ Utilizou-se o *Notepad++* para alterar o arquivo README.md
 
 com o comando: *git status* podemos verificar o status do repositório
 
-4ª Etapa: Registar - incluir o arquivo no repositório
+**4ª Etapa:** Registar - incluir o arquivo no repositório
 
 comando: git add
 
@@ -53,13 +54,41 @@ comando: git commit
 
 git commit -m "Primeira versão do arquivo README.md"
 
-**6ªEtapa:** Sincronização -  maquina local e repositório remoto
-O comando garante que a copia local esteja realmenre atualziada com a remota
+**6ªEtapa:** Sincronização -  máquina local e repositório remoto
+
+O comando garante que a copia local esteja realmente atualizada com a remota
 
 comando: git pull
 
-**7ªEtapa:** Sincronização -  repositório remoto e maquina local
+**7ªEtapa:** Sincronização -  repositório remoto e máquina local
 
 comando: git push
 
-**Obs:** nesta etapa temos que lembrar do usuário e senha do GitHub
+**Obs-1:** nesta etapa temos que lembrar do usuário e senha do GitHub
+**Obs-2:** O comando git checkout (git checkout -- README.md) permite desfazer as modificações
+
+
+## Instruções 2: Arquivos de código
+
+Adicionando os exercicios 02 e 04 da lista de exercícios 06
+
+nome dos arquivos: 
+
+* exercicio-2
+
+* exercicio-4
+
+**Sequência de comandos
+
+* git add
+
+* git commit
+
+* git pull *(importante ter certeza que está sincronizado)*
+
+* git push
+
+## Considerações
+
+Nesta arquivo está explicado sequência de comandos git utilizados para construção de uma repositório remoto e virtual, 
+bem como, os codicos para adicionar os arquivos de código fonte.
