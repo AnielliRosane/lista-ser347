@@ -64,9 +64,7 @@ comando: git pull
 
 comando: git push
 
-**Obs-1:** nesta etapa temos que lembrar do usuário e senha do GitHub
-
-**Obs-2:** O comando git checkout (git checkout -- README.md) permite desfazer as modificações
+**Obs:** nesta etapa temos que lembrar do usuário e senha do GitHub
 
 
 ## Instruções 2: Arquivos de código
