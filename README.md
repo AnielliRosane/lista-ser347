@@ -5,7 +5,7 @@
 1) Criar um repositório com alguns arquivos de código fonte da lista 
 de exercícios 06. 
 
-2) enviar o link desse repositório para os professores da disciplina, 
+2) Enviar o link desse repositório para os professores da disciplina, 
 com um resumo da sequência de comandos git utilizados.
 
 ## Instruções 1: Repositório
