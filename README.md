@@ -1,4 +1,4 @@
-# lista de Exercicio 06 - SER-347
+# Lista de Exercício 06 - SER-347
 
 ## Objetivos:
 
